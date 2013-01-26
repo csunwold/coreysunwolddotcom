@@ -1,4 +1,4 @@
-coreysunwolddotcom
+CoreySunwold.com
 ==================
 
-Personal website
+The code for my personal website.
